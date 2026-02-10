@@ -1,0 +1,26 @@
+{
+    "main": {
+        "passBattle": false,
+        "sendExpedition": false,
+        "cancelBattle": false,
+        "preCalcBattle": false,
+        "countControl": true,
+        "repeatMission": false,
+        "noOfferDonat": false,
+        "dailyQuests": false,
+        "autoBrawls": false,
+        "getAnswer": false,
+        "tryFixIt_v2": false,
+        "showErrors": true,
+        "buyForGold": false,
+        "hideServers": true,
+        "fastSeason": false,
+        "countTitanit": 150,
+        "speedBattle": 5,
+        "countTestBattle": 10,
+        "countAutoBattle": 10,
+        "FPS": 60
+    },
+    "doAll": {},
+    "quests": {}
+}

@@ -1,0 +1,112 @@
+{
+    "main": {
+        "passBattle": true,
+        "sendExpedition": true,
+        "cancelBattle": true,
+        "preCalcBattle": false,
+        "countControl": true,
+        "repeatMission": false,
+        "noOfferDonat": true,
+        "dailyQuests": false,
+        "autoBrawls": true,
+        "getAnswer": true,
+        "tryFixIt_v2": true,
+        "showErrors": true,
+        "buyForGold": true,
+        "hideServers": true,
+        "fastSeason": false,
+        "countTitanit": 150,
+        "speedBattle": 5,
+        "countTestBattle": 10,
+        "countAutoBattle": 10,
+        "FPS": 60
+    },
+    "doAll": {
+        "tidyInventory": {
+            "checked": true
+        },
+        "getOutland": {
+            "checked": true
+        },
+        "testTower": {
+            "checked": true
+        },
+        "checkExpedition": {
+            "checked": true
+        },
+        "testTitanArena": {
+            "checked": false
+        },
+        "mailGetAll": {
+            "checked": false
+        },
+        "collectAllStuff": {
+            "checked": false
+        },
+        "getDailyBonus": {
+            "checked": true
+        },
+        "dailyQuests": {
+            "checked": true
+        },
+        "rollAscension": {
+            "checked": true
+        },
+        "questAllFarm": {
+            "checked": false
+        },
+        "testDungeon": {
+            "checked": false
+        },
+        "synchronization": {
+            "checked": false
+        },
+        "reloadGame": {
+            "checked": false
+        }
+    },
+    "quests": {
+        "10001": {
+            "checked": true
+        },
+        "10003": {
+            "checked": true
+        },
+        "10006": {
+            "checked": false
+        },
+        "10007": {
+            "checked": false
+        },
+        "10016": {
+            "checked": true
+        },
+        "10018": {
+            "checked": true
+        },
+        "10024": {
+            "checked": false
+        },
+        "10027": {
+            "checked": true
+        },
+        "10028": {
+            "checked": false
+        },
+        "10029": {
+            "checked": true
+        },
+        "10030": {
+            "checked": false
+        },
+        "10043": {
+            "checked": false
+        },
+        "10044": {
+            "checked": true
+        },
+        "10046": {
+            "checked": true
+        }
+    }
+}

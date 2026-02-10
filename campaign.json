@@ -1,0 +1,28 @@
+{
+  "favorites": [
+    69,
+    6
+  ],
+  "missionId": 171,
+  "method": "raid_multi",
+  "reps": "10",
+  "energyThreshold": "60",
+  "autoStartEnabled": true,
+  "profiles": {
+    "2": {
+      "method": "raid_multi",
+      "missionId": "69",
+      "reps": "50",
+      "energyThreshold": "110",
+      "autoStartEnabled": false
+    },
+    "3": {
+      "method": "raid_multi",
+      "missionId": "77",
+      "reps": "50",
+      "energyThreshold": "110",
+      "autoStartEnabled": false
+    }
+  },
+  "autoSyncEnabled": true
+}

@@ -1,28 +1,72 @@
 {
   "favorites": [
     69,
-    6
+    6,
+    74,
+    84,
+    208,
+    196,
+    199,
+    179,
+    178,
+    171,
+    168,
+    118,
+    116,
+    103
   ],
-  "missionId": 171,
+  "missionId": "103",
   "method": "raid_multi",
   "reps": "10",
-  "energyThreshold": "60",
-  "autoStartEnabled": true,
+  "energyThreshold": "70",
+  "autoStartEnabled": false,
   "profiles": {
+    "1": {
+      "method": "raid_multi",
+      "missionId": "84",
+      "reps": "10",
+      "energyThreshold": "70",
+      "autoStartEnabled": false,
+      "autoSyncEnabled": false
+    },
     "2": {
       "method": "raid_multi",
       "missionId": "69",
-      "reps": "50",
-      "energyThreshold": "110",
+      "reps": "10",
+      "energyThreshold": "70",
       "autoStartEnabled": false
     },
     "3": {
       "method": "raid_multi",
       "missionId": "77",
-      "reps": "50",
-      "energyThreshold": "110",
+      "reps": "10",
+      "energyThreshold": "70",
       "autoStartEnabled": false
+    },
+    "4": {
+      "method": "raid_multi",
+      "missionId": "103",
+      "reps": "10",
+      "energyThreshold": "90",
+      "autoStartEnabled": false,
+      "autoSyncEnabled": false
+    },
+    "5": {
+      "method": "raid_multi",
+      "missionId": "171",
+      "reps": "10",
+      "energyThreshold": "105",
+      "autoStartEnabled": false,
+      "autoSyncEnabled": false
+    },
+    "6": {
+      "method": "raid_multi",
+      "missionId": "196",
+      "reps": "10",
+      "energyThreshold": "105",
+      "autoStartEnabled": false,
+      "autoSyncEnabled": false
     }
   },
-  "autoSyncEnabled": true
+  "autoSyncEnabled": false
 }

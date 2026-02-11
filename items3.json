@@ -1470,7 +1470,7 @@
     "gear_92": {
       "buy": false,
       "hidden": false,
-      "fav": true
+      "fav": false
     },
     "gear_84": {
       "buy": false,
@@ -1620,7 +1620,7 @@
     "gear_255": {
       "buy": false,
       "hidden": false,
-      "fav": false
+      "fav": true
     },
     "gear_260": {
       "buy": false,
@@ -2030,7 +2030,7 @@
     "gear_208": {
       "buy": false,
       "hidden": false,
-      "fav": false
+      "fav": true
     },
     "scroll_215": {
       "buy": false,
@@ -2510,7 +2510,7 @@
       "fav": false
     },
     "gear_92": {
-      "buy": true,
+      "buy": false,
       "hidden": false,
       "fav": false
     },
@@ -2662,7 +2662,7 @@
     "gear_255": {
       "buy": false,
       "hidden": false,
-      "fav": false
+      "fav": true
     },
     "gear_260": {
       "buy": false,
@@ -3072,7 +3072,7 @@
     "gear_208": {
       "buy": false,
       "hidden": false,
-      "fav": false
+      "fav": true
     },
     "scroll_215": {
       "buy": false,
@@ -3126,7 +3126,7 @@
     }
   },
   "6": {
-    "gear_235": {
+	  "gear_235": {
       "buy": false,
       "hidden": false,
       "fav": false
@@ -3657,9 +3657,9 @@
       "fav": true
     },
     "gear_209": {
-      "buy": true,
+      "buy": false,
       "hidden": false,
-      "fav": false
+      "fav": true
     },
     "scroll_216": {
       "buy": false,
@@ -3702,9 +3702,9 @@
       "fav": false
     },
     "gear_255": {
-      "buy": true,
+      "buy": false,
       "hidden": false,
-      "fav": false
+      "fav": true
     },
     "gear_260": {
       "buy": false,
@@ -5210,7 +5210,7 @@
     }
   },
   "9": {
-    "gear_235": {
+	  "gear_235": {
       "buy": false,
       "hidden": false,
       "fav": false
@@ -5741,9 +5741,9 @@
       "fav": true
     },
     "gear_209": {
-      "buy": true,
+      "buy": false,
       "hidden": false,
-      "fav": false
+      "fav": true
     },
     "scroll_216": {
       "buy": false,
@@ -5786,9 +5786,9 @@
       "fav": false
     },
     "gear_255": {
-      "buy": true,
+      "buy": false,
       "hidden": false,
-      "fav": false
+      "fav": true
     },
     "gear_260": {
       "buy": false,
@@ -6615,7 +6615,7 @@
     "gear_171": {
       "buy": false,
       "hidden": false,
-      "fav": true
+      "fav": false
     },
     "gear_236": {
       "buy": false,
@@ -6705,7 +6705,7 @@
     "gear_95": {
       "buy": false,
       "hidden": false,
-      "fav": true
+      "fav": false
     },
     "gear_111": {
       "buy": false,
@@ -6728,7 +6728,7 @@
       "fav": false
     },
     "gear_170": {
-      "buy": false,
+      "buy": true,
       "hidden": false,
       "fav": true
     },
@@ -6780,10 +6780,10 @@
     "gear_169": {
       "buy": false,
       "hidden": false,
-      "fav": true
+      "fav": false
     },
     "consumable_65": {
-      "buy": false,
+      "buy": true,
       "hidden": false,
       "fav": true
     },
@@ -7205,7 +7205,7 @@
     "gear_172": {
       "buy": false,
       "hidden": false,
-      "fav": true
+      "fav": false
     },
     "gear_65": {
       "buy": false,
@@ -7307,7 +7307,7 @@
     "consumable_85": {
       "buy": false,
       "hidden": false,
-      "fav": true
+      "fav": false
     }
   }
 }

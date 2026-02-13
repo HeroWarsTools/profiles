@@ -1,0 +1,43 @@
+{
+  "globalUrl": "https://hwmap.online/",
+  "configs": [
+    {
+      "id": "personal_1",
+      "name": "Personal",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "work_1",
+      "name": "Work2",
+      "color": "#fa8232"
+    },
+    {
+      "id": "banking_1",
+      "name": "Banking",
+      "color": "#10b981"
+    },
+    {
+      "id": "shopping_1",
+      "name": "Shopping",
+      "color": "#ec4899"
+    }
+  ],
+  "containerStates": {
+    "personal_1": {
+      "isActive": false,
+      "seconds": 11
+    },
+    "work_1": {
+      "isActive": false,
+      "seconds": 9
+    },
+    "banking_1": {
+      "isActive": false,
+      "seconds": 7
+    },
+    "shopping_1": {
+      "isActive": false,
+      "seconds": 5
+    }
+  }
+}

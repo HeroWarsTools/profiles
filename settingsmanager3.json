@@ -3,7 +3,7 @@
         "passBattle": true,
         "sendExpedition": true,
         "cancelBattle": true,
-        "preCalcBattle": false,
+        "preCalcBattle": true,
         "countControl": true,
         "repeatMission": false,
         "noOfferDonat": true,
@@ -15,11 +15,11 @@
         "buyForGold": true,
         "hideServers": true,
         "fastSeason": false,
-        "countTitanit": 150,
-        "speedBattle": 5,
+        "countTitanit": 11150,
+        "speedBattle": 4,
         "countTestBattle": 10,
-        "countAutoBattle": 10,
-        "FPS": 60
+        "countAutoBattle": 20,
+        "FPS": 30
     },
     "doAll": {
         "tidyInventory": {
@@ -35,13 +35,13 @@
             "checked": true
         },
         "testTitanArena": {
-            "checked": false
+            "checked": true
         },
         "mailGetAll": {
-            "checked": false
+            "checked": true
         },
         "collectAllStuff": {
-            "checked": false
+            "checked": true
         },
         "getDailyBonus": {
             "checked": true
@@ -53,24 +53,30 @@
             "checked": true
         },
         "questAllFarm": {
-            "checked": false
+            "checked": true
         },
         "testDungeon": {
             "checked": false
         },
         "synchronization": {
-            "checked": false
+            "checked": true
         },
         "reloadGame": {
-            "checked": false
+            "checked": true
         }
     },
     "quests": {
         "10001": {
             "checked": true
         },
+        "10002": {
+            "checked": false
+        },
         "10003": {
             "checked": true
+        },
+        "10004": {
+            "checked": false
         },
         "10006": {
             "checked": false
@@ -84,7 +90,22 @@
         "10018": {
             "checked": true
         },
+        "10019": {
+            "checked": false
+        },
+        "10020": {
+            "checked": true
+        },
+        "10021": {
+            "checked": false
+        },
+        "10023": {
+            "checked": true
+        },
         "10024": {
+            "checked": false
+        },
+        "10025": {
             "checked": false
         },
         "10027": {
@@ -107,6 +128,9 @@
         },
         "10046": {
             "checked": true
+        },
+        "10047": {
+            "checked": false
         }
     }
 }

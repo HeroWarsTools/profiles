@@ -15,58 +15,62 @@
     116,
     103
   ],
-  "missionId": "103",
+  "missionId": "69",
   "method": "raid_multi",
   "reps": "10",
   "energyThreshold": "70",
-  "autoStartEnabled": false,
+  "autoStartEnabled": true,
+      "autoSyncEnabled": true
   "profiles": {
     "1": {
       "method": "raid_multi",
       "missionId": "84",
       "reps": "10",
       "energyThreshold": "70",
-      "autoStartEnabled": false,
-      "autoSyncEnabled": false
+      "autoStartEnabled": true,
+      "autoSyncEnabled": true
     },
     "2": {
       "method": "raid_multi",
       "missionId": "69",
       "reps": "10",
       "energyThreshold": "70",
-      "autoStartEnabled": false
+      "autoStartEnabled": true,
+      "autoSyncEnabled": true
     },
     "3": {
       "method": "raid_multi",
       "missionId": "77",
       "reps": "10",
       "energyThreshold": "70",
-      "autoStartEnabled": false
+      "autoStartEnabled": true,
+      "autoSyncEnabled": true
     },
     "4": {
       "method": "raid_multi",
       "missionId": "103",
       "reps": "10",
       "energyThreshold": "90",
-      "autoStartEnabled": false,
-      "autoSyncEnabled": false
+      "autoStartEnabled": true,
+      "autoSyncEnabled": true
     },
     "5": {
       "method": "raid_multi",
       "missionId": "171",
       "reps": "10",
       "energyThreshold": "105",
-      "autoStartEnabled": false,
-      "autoSyncEnabled": false
+      "autoStartEnabled": true,
+      "autoSyncEnabled": true
     },
     "6": {
       "method": "raid_multi",
       "missionId": "196",
       "reps": "10",
       "energyThreshold": "105",
-      "autoStartEnabled": false,
-      "autoSyncEnabled": false
+      "autoStartEnabled": true,
+      "autoSyncEnabled": true
     }
   },
-  "autoSyncEnabled": false
+  "autoSyncEnabled": true,
+  "buyEnergy50": false
 }

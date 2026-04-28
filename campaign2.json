@@ -20,8 +20,8 @@
   "reps": "10",
   "energyThreshold": "70",
   "autoStartEnabled": true,
-      "autoSyncEnabled": true
-  },
+  "autoSyncEnabled": true,
+  "buyEnergy50": false,
   "profiles": {
     "1": {
       "method": "raid_multi",
@@ -29,7 +29,8 @@
       "reps": "10",
       "energyThreshold": "70",
       "autoStartEnabled": true,
-      "autoSyncEnabled": true
+      "autoSyncEnabled": true,
+      "buyEnergy50": false
     },
     "2": {
       "method": "raid_multi",
@@ -37,7 +38,8 @@
       "reps": "10",
       "energyThreshold": "70",
       "autoStartEnabled": true,
-      "autoSyncEnabled": true
+      "autoSyncEnabled": true,
+      "buyEnergy50": false
     },
     "3": {
       "method": "raid_multi",
@@ -45,7 +47,8 @@
       "reps": "10",
       "energyThreshold": "70",
       "autoStartEnabled": true,
-      "autoSyncEnabled": true
+      "autoSyncEnabled": true,
+      "buyEnergy50": false
     },
     "4": {
       "method": "raid_multi",
@@ -53,7 +56,8 @@
       "reps": "10",
       "energyThreshold": "90",
       "autoStartEnabled": true,
-      "autoSyncEnabled": true
+      "autoSyncEnabled": true,
+      "buyEnergy50": false
     },
     "5": {
       "method": "raid_multi",
@@ -61,7 +65,8 @@
       "reps": "10",
       "energyThreshold": "105",
       "autoStartEnabled": true,
-      "autoSyncEnabled": true
+      "autoSyncEnabled": true,
+      "buyEnergy50": false
     },
     "6": {
       "method": "raid_multi",
@@ -69,9 +74,8 @@
       "reps": "10",
       "energyThreshold": "105",
       "autoStartEnabled": true,
-      "autoSyncEnabled": true
+      "autoSyncEnabled": true,
+      "buyEnergy50": false
     }
-  },
-  "autoSyncEnabled": true,
-  "buyEnergy50": false
+  }
 }

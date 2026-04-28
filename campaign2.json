@@ -21,6 +21,7 @@
   "energyThreshold": "70",
   "autoStartEnabled": true,
       "autoSyncEnabled": true
+  },
   "profiles": {
     "1": {
       "method": "raid_multi",

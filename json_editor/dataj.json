@@ -16,5 +16,14 @@
     "coloreTestoCasella": "#1f2937",
     "coloreBottone": "#2563eb",
     "coloreTestoBottone": "#ffffff"
+  },
+  {
+    "titolo": "Launcher FirefoxMAC",
+    "link": "https://herowarstools.github.io/support/editor.html",
+    "descrizione": "convert to EXCEL to use for firefox multi account container on https://herowarstools.github.io/support/",
+    "coloreCasella": "#92699e",
+    "coloreTestoCasella": "#c4cd69",
+    "coloreBottone": "#6d6ca4",
+    "coloreTestoBottone": "#f5b8a9"
   }
 ]

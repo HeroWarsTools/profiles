@@ -1,0 +1,612 @@
+{
+  "globalUrl": "https://www.hero-wars.com/?hl=it",
+  "autoCloseConfig": {
+    "enabled": false,
+    "startTime": "22:00",
+    "endTime": "06:00"
+  },
+  "configs": [
+    {
+      "id": "personal_1",
+      "name": "Pimpo",
+      "color": "#3b82f6"
+    },
+    {
+      "id": "work_1",
+      "name": "Maronno",
+      "color": "#c0c0c0"
+    },
+    {
+      "id": "config_1771767271228",
+      "name": "Jonny",
+      "color": "#5c5f66"
+    },
+    {
+      "id": "config_1771767761848",
+      "name": "Iscalio",
+      "color": "#02a61b"
+    },
+    {
+      "id": "config_1771767779576",
+      "name": "zzxxcc",
+      "color": "#038bbe"
+    },
+    {
+      "id": "config_1771768308188",
+      "name": "MoonLight",
+      "color": "#30eb01"
+    },
+    {
+      "id": "config_1771768329851",
+      "name": "NightShadow",
+      "color": "#7705f5"
+    },
+    {
+      "id": "config_1771768347220",
+      "name": "Frater",
+      "color": "#0927fd"
+    },
+    {
+      "id": "config_1771768361132",
+      "name": "Ali",
+      "color": "#3ebe18"
+    },
+    {
+      "id": "config_1771768611665",
+      "name": "Crosta",
+      "color": "#7e6c43"
+    },
+    {
+      "id": "config_1771768810848",
+      "name": "Spyro",
+      "color": "#f90006"
+    },
+    {
+      "id": "config_1771768827158",
+      "name": "StifoS",
+      "color": "#1da53f"
+    },
+    {
+      "id": "config_1771768990680",
+      "name": "-S-D-I-",
+      "color": "#091fb9"
+    },
+    {
+      "id": "config_1771769008047",
+      "name": "Jamesir",
+      "color": "#07bab6"
+    },
+    {
+      "id": "config_1771769155004",
+      "name": "AlwaysDeky",
+      "color": "#157ce3"
+    },
+    {
+      "id": "config_1771769170901",
+      "name": "Kerberos",
+      "color": "#b607ba"
+    },
+    {
+      "id": "config_1771769181567",
+      "name": "PineApple Pizza",
+      "color": "#bb4f06"
+    },
+    {
+      "id": "",
+      "name": "Team Turkiye",
+      "color": "#b607ba"
+    },
+    {
+      "id": "config_1771769425571",
+      "name": "DemonSlayer",
+      "color": "#9200c1"
+    },
+    {
+      "id": "config_1771769450777",
+      "name": "Critto",
+      "color": "#a3b80a"
+    },
+    {
+      "id": "config_1771769461754",
+      "name": "Paladin",
+      "color": "#3304bd"
+    },
+    {
+      "id": "config_1771769495057",
+      "name": "Corwin",
+      "color": "#c09601"
+    },
+    {
+      "id": "config_1771768626953",
+      "name": "Tansues",
+      "color": "#7c239e"
+    },
+    {
+      "id": "config_1771769367650",
+      "name": "Twelve",
+      "color": "#00c1c1"
+    }
+  ],
+  "containerStates": {
+    "personal_1": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 5
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "work_1": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 15
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771767271228": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 25
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771767761848": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 35
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771767779576": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 185
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768308188": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 195
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768329851": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 205
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768347220": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 215
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768361132": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 365
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768611665": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 375
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768810848": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 385
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768827158": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 395
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768990680": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 545
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769008047": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 555
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769155004": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 565
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769170901": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 575
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769181567": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 725
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 735
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769425571": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 745
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769450777": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 755
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769461754": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 905
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769495057": {
+      "countdown": {
+        "enabled": true,
+        "seconds": 915
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771768626953": {
+      "countdown": {
+        "enabled": false,
+        "seconds": 925
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    },
+    "config_1771769367650": {
+      "countdown": {
+        "enabled": false,
+        "seconds": 935
+      },
+      "schedule": [
+        {
+          "enabled": false,
+          "time": "09:00"
+        },
+        {
+          "enabled": false,
+          "time": "17:00"
+        },
+        {
+          "enabled": false,
+          "time": "21:00"
+        }
+      ]
+    }
+  }
+}

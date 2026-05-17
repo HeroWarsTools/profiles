@@ -1,23 +1,6 @@
 {
-  "_metadata": {
-    "shopId": "5",
-    "shopName": "Grand Arena Shop",
-    "exportedAt": "2026-05-17T13:51:52.583Z"
-  },
-  "filters": {
-    "colors": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-    ],
-    "excludeCraftRecipe": false,
-    "excludeFragmentMerge": false,
-    "excludeTypes": []
-  },
-  "data": {
+  "1": {},
+  "4": {
     "gear_235": {
       "buy": false,
       "hidden": false,
@@ -33,6 +16,14 @@
       "_name": "Ace in the Hole - Recipe",
       "_color": 6,
       "_color_hex": "#FF3333"
+    },
+    "gear_97": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Advisor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_226": {
       "buy": true,
@@ -66,6 +57,14 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "gear_116": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "All-seer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_179": {
       "buy": false,
       "hidden": false,
@@ -90,6 +89,38 @@
       "_color": 6,
       "_color_hex": "#FF3333"
     },
+    "gear_134": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_158": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_153": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_125": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Apostle's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_188": {
       "buy": false,
       "hidden": false,
@@ -105,6 +136,22 @@
       "_name": "Aquant's Trident - Recipe",
       "_color": 5,
       "_color_hex": "#FFD700"
+    },
+    "gear_139": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Archangel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_151": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Armor of Thieves' Prince - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
     },
     "gear_184": {
       "buy": false,
@@ -138,6 +185,22 @@
       "_color": 6,
       "_color_hex": "#FF3333"
     },
+    "scroll_142": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Axe - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_120": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade Bow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_182": {
       "buy": false,
       "hidden": false,
@@ -170,6 +233,62 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "gear_140": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_129": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_130": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_157": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_152": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_135": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Prophecies",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_126": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Tales",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_240": {
       "buy": false,
       "hidden": false,
@@ -201,6 +320,14 @@
       "_name": "Citadel Guardian",
       "_color": 5,
       "_color_hex": "#FFD700"
+    },
+    "gear_136": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Cosmic Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_242": {
       "buy": false,
@@ -258,6 +385,14 @@
       "_color": 6,
       "_color_hex": "#FF3333"
     },
+    "gear_96": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Desert Blade",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_228": {
       "buy": false,
       "hidden": false,
@@ -266,6 +401,54 @@
       "_color": 6,
       "_color_hex": "#FF3333"
     },
+    "gear_132": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_128": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_99": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_162": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_101": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_107": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_224": {
       "buy": false,
       "hidden": false,
@@ -273,6 +456,14 @@
       "_name": "Dragon's Heart",
       "_color": 6,
       "_color_hex": "#FF3333"
+    },
+    "scroll_164": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon's Tooth - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_239": {
       "buy": false,
@@ -313,6 +504,14 @@
       "_name": "Echidna's Dark Hex",
       "_color": 6,
       "_color_hex": "#FF3333"
+    },
+    "gear_117": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Elephant Guard",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_174": {
       "buy": false,
@@ -370,6 +569,62 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "gear_122": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Executioner's Sword",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_91": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Flaming Heart",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_150": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Folding Crossbow - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_98": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Funeral Totem",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_92": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Giant-Slayer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_114": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Governor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_113": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Grandmaster's Chain",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_173": {
       "buy": false,
       "hidden": false,
@@ -377,6 +632,30 @@
       "_name": "Gro Bulgor's Poleaxe",
       "_color": 5,
       "_color_hex": "#FFD700"
+    },
+    "gear_95": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_111": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_146": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Hand of Midas - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
     },
     "gear_170": {
       "buy": true,
@@ -474,6 +753,30 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "gear_103": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lightbringer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_123": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lion Helmet",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_149": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lion's armor - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
     "gear_168": {
       "buy": true,
       "hidden": false,
@@ -481,6 +784,14 @@
       "_name": "Lycanthrope's Fang",
       "_color": 5,
       "_color_hex": "#FFD700"
+    },
+    "gear_94": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Minotaur's Head",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_210": {
       "buy": false,
@@ -610,6 +921,38 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "scroll_165": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Original Word - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_137": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Panoptic Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_93": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_112": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_234": {
       "buy": false,
       "hidden": false,
@@ -633,6 +976,30 @@
       "_name": "Primarch's Grasp",
       "_color": 6,
       "_color_hex": "#FF3333"
+    },
+    "gear_102": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_109": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_90": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Prince of Thieves' Armor",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
     },
     "gear_185": {
       "buy": false,
@@ -674,6 +1041,30 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "scroll_141": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Screaming blade - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_160": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_155": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_231": {
       "buy": false,
       "hidden": false,
@@ -682,6 +1073,22 @@
       "_color": 6,
       "_color_hex": "#FF3333"
     },
+    "gear_108": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Shield of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_118": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Siege Crossbow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_222": {
       "buy": true,
       "hidden": false,
@@ -689,6 +1096,38 @@
       "_name": "Simon's Enlightenment",
       "_color": 6,
       "_color_hex": "#FF3333"
+    },
+    "gear_100": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_110": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_163": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_106": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Snaketongue",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_213": {
       "buy": false,
@@ -706,6 +1145,22 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "scroll_145": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Soul catcher - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_148": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Spear of a Dragon fighter - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
     "gear_180": {
       "buy": false,
       "hidden": false,
@@ -721,6 +1176,46 @@
       "_name": "Sphere of Power - Recipe",
       "_color": 5,
       "_color_hex": "#FFD700"
+    },
+    "scroll_159": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_154": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_104": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_105": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_138": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Morana's Nimbus",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_181": {
       "buy": false,
@@ -738,6 +1233,14 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "gear_133": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Selena's Halo",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_207": {
       "buy": false,
       "hidden": false,
@@ -753,6 +1256,22 @@
       "_name": "Staff of Stubbornness - Recipe",
       "_color": 5,
       "_color_hex": "#FFD700"
+    },
+    "gear_121": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sword of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_115": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Talisman",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_243": {
       "buy": false,
@@ -786,6 +1305,22 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
+    "gear_119": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Traitor's Crown",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_143": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Traitor's shield - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
     "gear_189": {
       "buy": false,
       "hidden": false,
@@ -801,6 +1336,14 @@
       "_name": "Trickster's Cane - Recipe",
       "_color": 5,
       "_color_hex": "#FFD700"
+    },
+    "gear_127": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trine",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "gear_208": {
       "buy": false,
@@ -818,7 +1361,81 @@
       "_color": 5,
       "_color_hex": "#FFD700"
     },
-    "_threshold": 8000,
+    "scroll_161": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_156": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_144": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Voodoo doll - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_124": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_166": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_147": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wiseman's Crown - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_131": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "World Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "_threshold": 8000
+  },
+  "5": {
+    "gear_235": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_246": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
     "gear_97": {
       "buy": false,
       "hidden": false,
@@ -827,6 +1444,38 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_226": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aigrette of Nocturnal Cicadas",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_167": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alchemist's Set",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_186": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_197": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "gear_116": {
       "buy": false,
       "hidden": false,
@@ -834,6 +1483,30 @@
       "_name": "All-seer",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_179": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_190": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_227": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Andvari's Fortitude Support",
+      "_color": 6,
+      "_color_hex": "#FF3333"
     },
     "gear_134": {
       "buy": false,
@@ -867,6 +1540,22 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_188": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Aquant's Trident",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_199": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aquant's Trident - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "gear_139": {
       "buy": false,
       "hidden": false,
@@ -875,6 +1564,54 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "scroll_151": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Armor of Thieves' Prince - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_184": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_195": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_233": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_244": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_142": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Axe - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
     "gear_120": {
       "buy": false,
       "hidden": false,
@@ -882,6 +1619,38 @@
       "_name": "Blade Bow",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_182": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_193": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_183": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_194": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
     },
     "gear_140": {
       "buy": false,
@@ -939,6 +1708,38 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_240": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_251": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_223": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Chalice of the Primordials",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_175": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Citadel Guardian",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "gear_136": {
       "buy": false,
       "hidden": false,
@@ -947,6 +1748,62 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_242": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_253": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_187": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_198": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_229": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Deadly Sting",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_241": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Demigod's Wreath",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_252": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Demigod's Wreath - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
     "gear_96": {
       "buy": true,
       "hidden": false,
@@ -954,6 +1811,14 @@
       "_name": "Desert Blade",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_228": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Devourer of Mages",
+      "_color": 6,
+      "_color_hex": "#FF3333"
     },
     "gear_132": {
       "buy": false,
@@ -1003,6 +1868,14 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_224": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon's Heart",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
     "scroll_164": {
       "buy": false,
       "hidden": false,
@@ -1011,6 +1884,46 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_239": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_250": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_202": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_205": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_232": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Echidna's Dark Hex",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
     "gear_117": {
       "buy": false,
       "hidden": false,
@@ -1018,6 +1931,62 @@
       "_name": "Elephant Guard",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_174": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enchanted Chain",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_171": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enigma's Chronicles",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_236": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_247": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_225": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evening Curfew",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_211": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_218": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
     },
     "gear_122": {
       "buy": false,
@@ -1034,6 +2003,14 @@
       "_name": "Flaming Heart",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "scroll_150": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Folding Crossbow - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
     },
     "gear_98": {
       "buy": false,
@@ -1067,6 +2044,14 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_173": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Gro Bulgor's Poleaxe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "gear_95": {
       "buy": true,
       "hidden": false,
@@ -1082,6 +2067,110 @@
       "_name": "Hand of Glory",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "scroll_146": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Hand of Midas - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_170": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Harunian Helm",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_177": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hellion Harpoon",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_238": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_249": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_237": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_248": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_230": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Jarugardi's Sneer",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_212": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Key to All Doors",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_219": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Key to All Doors - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_169": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "La Mort's Card",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_209": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_216": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
     },
     "gear_103": {
       "buy": false,
@@ -1099,6 +2188,22 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "scroll_149": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lion's armor - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_168": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lycanthrope's Fang",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "gear_94": {
       "buy": true,
       "hidden": false,
@@ -1106,6 +2211,134 @@
       "_name": "Minotaur's Head",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_210": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_217": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_203": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_206": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_141": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange1",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_150": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange10",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_151": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange11",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_152": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange12",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_142": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange2",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_143": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange3",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_144": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange4",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_145": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange5",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_146": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange6",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_147": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange7",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_148": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange8",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_149": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange9",
+      "_color": 5,
+      "_color_hex": "#FFD700"
     },
     "scroll_165": {
       "buy": false,
@@ -1139,6 +2372,30 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_234": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_245": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_221": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primarch's Grasp",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
     "gear_102": {
       "buy": false,
       "hidden": false,
@@ -1154,6 +2411,62 @@
       "_name": "Primordial Word",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_90": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Prince of Thieves' Armor",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_185": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_196": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_176": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Riversar's Tiara",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_201": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_204": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_141": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Screaming blade - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
     },
     "scroll_160": {
       "buy": false,
@@ -1171,6 +2484,14 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_231": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Shadow Queen's Scythes",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
     "gear_108": {
       "buy": false,
       "hidden": false,
@@ -1186,6 +2507,14 @@
       "_name": "Siege Crossbow",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_222": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Simon's Enlightenment",
+      "_color": 6,
+      "_color_hex": "#FF3333"
     },
     "gear_100": {
       "buy": false,
@@ -1218,6 +2547,54 @@
       "_name": "Snaketongue",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_213": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of the Valkyries",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_220": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of Valkyries - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_145": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Soul catcher - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_148": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Spear of a Dragon fighter - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_180": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sphere of Power",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_191": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Sphere of Power - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
     },
     "scroll_159": {
       "buy": false,
@@ -1259,6 +2636,22 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_181": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_192": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "gear_133": {
       "buy": false,
       "hidden": false,
@@ -1266,6 +2659,22 @@
       "_name": "Staff of Selena's Halo",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_207": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_214": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
     },
     "gear_121": {
       "buy": false,
@@ -1283,6 +2692,38 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "gear_243": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_254": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_178": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Thieves Guild Sign",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_172": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Throwing Knives",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "gear_119": {
       "buy": false,
       "hidden": false,
@@ -1291,6 +2732,30 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "scroll_143": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Traitor's shield - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_189": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Trickster's Cane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_200": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trickster's Cane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "gear_127": {
       "buy": false,
       "hidden": false,
@@ -1298,6 +2763,22 @@
       "_name": "Trine",
       "_color": 4,
       "_color_hex": "#DDA0DD"
+    },
+    "gear_208": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Unity of Extremes",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_215": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Unity of Extremes - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
     },
     "scroll_161": {
       "buy": false,
@@ -1315,6 +2796,14 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "scroll_144": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Voodoo doll - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
     "gear_124": {
       "buy": false,
       "hidden": false,
@@ -1331,11 +2820,166 @@
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
+    "scroll_147": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wiseman's Crown - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
     "gear_131": {
       "buy": false,
       "hidden": false,
       "fav": true,
       "_name": "World Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "_threshold": 8000
+  },
+  "6": {
+    "gear_235": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_246": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_97": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Advisor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_226": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aigrette of Nocturnal Cicadas",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_167": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alchemist's Set",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_186": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_197": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_116": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "All-seer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_179": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_190": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_227": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Andvari's Fortitude Support",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_134": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_158": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_153": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_125": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Apostle's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_188": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Aquant's Trident",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_199": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aquant's Trident - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_139": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Archangel's Mace",
       "_color": 4,
       "_color_hex": "#DDA0DD"
     },
@@ -1347,6 +2991,38 @@
       "_color": 3,
       "_color_hex": "#87CEEB"
     },
+    "gear_184": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_195": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_233": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_244": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
     "scroll_142": {
       "buy": false,
       "hidden": false,
@@ -1354,6 +3030,398 @@
       "_name": "Axe - Recipe",
       "_color": 2,
       "_color_hex": "#90EE90"
+    },
+    "gear_120": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade Bow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_182": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_193": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_183": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_194": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_140": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_129": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_130": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_157": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_152": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_135": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Prophecies",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_126": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Tales",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_240": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_251": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_223": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Chalice of the Primordials",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_175": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Citadel Guardian",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_136": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Cosmic Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_242": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_253": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_187": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_198": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_229": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Deadly Sting",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_241": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Demigod's Wreath",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_252": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Demigod's Wreath - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_96": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Desert Blade",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_228": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Devourer of Mages",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_132": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_128": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_99": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_162": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_101": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_107": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_224": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon's Heart",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_164": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon's Tooth - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_239": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_250": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_202": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_205": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_232": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Echidna's Dark Hex",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_117": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Elephant Guard",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_174": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enchanted Chain",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_171": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enigma's Chronicles",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_236": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_247": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_225": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evening Curfew",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_211": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_218": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_122": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Executioner's Sword",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_91": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Flaming Heart",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "scroll_150": {
       "buy": false,
@@ -1363,6 +3431,62 @@
       "_color": 3,
       "_color_hex": "#87CEEB"
     },
+    "gear_98": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Funeral Totem",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_92": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Giant-Slayer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_114": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Governor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_113": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Grandmaster's Chain",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_173": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Gro Bulgor's Poleaxe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_95": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_111": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "scroll_146": {
       "buy": false,
       "hidden": false,
@@ -1370,6 +3494,118 @@
       "_name": "Hand of Midas - Recipe",
       "_color": 3,
       "_color_hex": "#87CEEB"
+    },
+    "gear_170": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Harunian Helm",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_177": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hellion Harpoon",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_238": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_249": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_237": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_248": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_230": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Jarugardi's Sneer",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_212": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Key to All Doors",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_219": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Key to All Doors - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_169": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "La Mort's Card",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_209": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_216": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_103": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lightbringer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_123": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lion Helmet",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "scroll_149": {
       "buy": false,
@@ -1379,6 +3615,222 @@
       "_color": 3,
       "_color_hex": "#87CEEB"
     },
+    "gear_168": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lycanthrope's Fang",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_94": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Minotaur's Head",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_210": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_217": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_203": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_206": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_141": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange1",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_150": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange10",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_151": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange11",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_152": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange12",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_142": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange2",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_143": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange3",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_144": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange4",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_145": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange5",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_146": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange6",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_147": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange7",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_148": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange8",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_149": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange9",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_165": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Original Word - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_137": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Panoptic Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_93": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_112": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_234": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_245": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_221": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primarch's Grasp",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_102": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_109": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "gear_90": {
       "buy": false,
       "hidden": false,
@@ -1387,6 +3839,46 @@
       "_color": 3,
       "_color_hex": "#87CEEB"
     },
+    "gear_185": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_196": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_176": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Riversar's Tiara",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_201": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_204": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
     "scroll_141": {
       "buy": false,
       "hidden": false,
@@ -1394,6 +3886,102 @@
       "_name": "Screaming blade - Recipe",
       "_color": 2,
       "_color_hex": "#90EE90"
+    },
+    "scroll_160": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_155": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_231": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Shadow Queen's Scythes",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_108": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Shield of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_118": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Siege Crossbow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_222": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Simon's Enlightenment",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_100": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_110": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_163": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_106": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Snaketongue",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_213": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of the Valkyries",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_220": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of Valkyries - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
     },
     "scroll_145": {
       "buy": false,
@@ -1411,6 +3999,158 @@
       "_color": 3,
       "_color_hex": "#87CEEB"
     },
+    "gear_180": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sphere of Power",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_191": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Sphere of Power - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_159": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_154": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_104": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_105": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_138": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Morana's Nimbus",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_181": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_192": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_133": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Selena's Halo",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_207": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_214": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_121": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sword of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_115": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Talisman",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_243": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_254": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_178": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Thieves Guild Sign",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_172": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Throwing Knives",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_119": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Traitor's Crown",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "scroll_143": {
       "buy": false,
       "hidden": false,
@@ -1418,6 +4158,62 @@
       "_name": "Traitor's shield - Recipe",
       "_color": 2,
       "_color_hex": "#90EE90"
+    },
+    "gear_189": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Trickster's Cane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_200": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trickster's Cane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_127": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trine",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_208": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Unity of Extremes",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_215": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Unity of Extremes - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_161": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_156": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
     },
     "scroll_144": {
       "buy": false,
@@ -1427,6 +4223,22 @@
       "_color": 2,
       "_color_hex": "#90EE90"
     },
+    "gear_124": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_166": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
     "scroll_147": {
       "buy": false,
       "hidden": false,
@@ -1434,6 +4246,4290 @@
       "_name": "Wiseman's Crown - Recipe",
       "_color": 3,
       "_color_hex": "#87CEEB"
-    }
+    },
+    "gear_131": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "World Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "_threshold": 8000
+  },
+  "8": {
+    "gear_235": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_246": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_97": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Advisor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_226": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aigrette of Nocturnal Cicadas",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_167": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alchemist's Set",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_186": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_197": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_116": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "All-seer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_179": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_190": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_227": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Andvari's Fortitude Support",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_134": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_158": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_153": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_125": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Apostle's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_188": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Aquant's Trident",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_199": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aquant's Trident - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_139": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Archangel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_151": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Armor of Thieves' Prince - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_184": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_195": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_233": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_244": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_142": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Axe - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_120": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade Bow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_182": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_193": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_183": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_194": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_140": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_129": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_130": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_157": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_152": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_135": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Prophecies",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_126": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Tales",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_240": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_251": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_223": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Chalice of the Primordials",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_175": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Citadel Guardian",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_136": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Cosmic Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_242": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_253": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_187": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_198": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_229": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Deadly Sting",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_241": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Demigod's Wreath",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_252": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Demigod's Wreath - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_96": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Desert Blade",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_228": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Devourer of Mages",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_132": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_128": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_99": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_162": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_101": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_107": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_224": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon's Heart",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_164": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon's Tooth - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_239": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_250": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_202": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_205": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_232": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Echidna's Dark Hex",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_117": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Elephant Guard",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_174": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enchanted Chain",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_171": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enigma's Chronicles",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_236": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_247": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_225": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evening Curfew",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_211": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_218": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_122": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Executioner's Sword",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_91": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Flaming Heart",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_150": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Folding Crossbow - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_98": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Funeral Totem",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_92": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Giant-Slayer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_114": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Governor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_113": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Grandmaster's Chain",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_173": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Gro Bulgor's Poleaxe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_95": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_111": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_146": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Hand of Midas - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_170": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Harunian Helm",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_177": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hellion Harpoon",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_238": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_249": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_237": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_248": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_230": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Jarugardi's Sneer",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_212": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Key to All Doors",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_219": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Key to All Doors - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_169": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "La Mort's Card",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_209": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_216": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_103": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lightbringer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_123": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lion Helmet",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_149": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lion's armor - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_168": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lycanthrope's Fang",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_94": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Minotaur's Head",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_210": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_217": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_203": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_206": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_141": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange1",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_150": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange10",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_151": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange11",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_152": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange12",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_142": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange2",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_143": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange3",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_144": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange4",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_145": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange5",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_146": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange6",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_147": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange7",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_148": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange8",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_149": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange9",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_165": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Original Word - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_137": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Panoptic Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_93": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_112": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_234": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_245": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_221": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primarch's Grasp",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_102": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_109": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_90": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Prince of Thieves' Armor",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_185": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_196": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_176": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Riversar's Tiara",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_201": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_204": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_141": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Screaming blade - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_160": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_155": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_231": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Shadow Queen's Scythes",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_108": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Shield of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_118": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Siege Crossbow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_222": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Simon's Enlightenment",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_100": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_110": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_163": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_106": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Snaketongue",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_213": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of the Valkyries",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_220": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of Valkyries - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_145": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Soul catcher - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_148": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Spear of a Dragon fighter - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_180": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sphere of Power",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_191": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Sphere of Power - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_159": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_154": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_104": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_105": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_138": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Morana's Nimbus",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_181": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_192": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_133": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Selena's Halo",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_207": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_214": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_121": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sword of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_115": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Talisman",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_243": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_254": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_178": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Thieves Guild Sign",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_172": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Throwing Knives",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_119": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Traitor's Crown",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_143": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Traitor's shield - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_189": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Trickster's Cane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_200": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trickster's Cane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_127": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trine",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_208": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Unity of Extremes",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_215": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Unity of Extremes - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_161": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_156": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_144": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Voodoo doll - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_124": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_166": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_147": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wiseman's Crown - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_131": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "World Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "_threshold": 8000
+  },
+  "9": {
+    "gear_235": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_246": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_97": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Advisor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_226": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aigrette of Nocturnal Cicadas",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_167": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alchemist's Set",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_186": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_197": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_116": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "All-seer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_179": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_190": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_227": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Andvari's Fortitude Support",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_134": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_158": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_153": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_125": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Apostle's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_188": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Aquant's Trident",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_199": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aquant's Trident - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_139": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Archangel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_151": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Armor of Thieves' Prince - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_184": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_195": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_233": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_244": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_142": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Axe - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_120": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade Bow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_182": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_193": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_183": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_194": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_140": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_129": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_130": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_157": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_152": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_135": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Prophecies",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_126": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Tales",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_240": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_251": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_223": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Chalice of the Primordials",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_175": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Citadel Guardian",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_136": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Cosmic Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_242": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_253": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_187": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_198": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_229": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Deadly Sting",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_241": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Demigod's Wreath",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_252": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Demigod's Wreath - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_96": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Desert Blade",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_228": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Devourer of Mages",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_132": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_128": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_99": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_162": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_101": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_107": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_224": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon's Heart",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_164": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon's Tooth - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_239": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_250": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_202": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_205": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_232": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Echidna's Dark Hex",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_117": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Elephant Guard",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_174": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enchanted Chain",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_171": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enigma's Chronicles",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_236": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_247": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_225": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evening Curfew",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_211": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_218": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_122": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Executioner's Sword",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_91": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Flaming Heart",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_150": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Folding Crossbow - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_98": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Funeral Totem",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_92": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Giant-Slayer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_114": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Governor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_113": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Grandmaster's Chain",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_173": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Gro Bulgor's Poleaxe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_95": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_111": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_146": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Hand of Midas - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_170": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Harunian Helm",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_177": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hellion Harpoon",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_238": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_249": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_237": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_248": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_230": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Jarugardi's Sneer",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_212": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Key to All Doors",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_219": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Key to All Doors - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_169": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "La Mort's Card",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_209": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_216": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_103": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lightbringer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_123": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lion Helmet",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_149": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lion's armor - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_168": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lycanthrope's Fang",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_94": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Minotaur's Head",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_210": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_217": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_203": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_206": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_141": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange1",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_150": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange10",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_151": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange11",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_152": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange12",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_142": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange2",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_143": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange3",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_144": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange4",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_145": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange5",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_146": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange6",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_147": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange7",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_148": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange8",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_149": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange9",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_165": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Original Word - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_137": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Panoptic Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_93": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_112": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_234": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_245": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_221": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primarch's Grasp",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_102": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_109": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_90": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Prince of Thieves' Armor",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_185": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_196": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_176": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Riversar's Tiara",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_201": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_204": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_141": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Screaming blade - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_160": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_155": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_231": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Shadow Queen's Scythes",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_108": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Shield of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_118": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Siege Crossbow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_222": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Simon's Enlightenment",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_100": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_110": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_163": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_106": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Snaketongue",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_213": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of the Valkyries",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_220": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of Valkyries - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_145": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Soul catcher - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_148": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Spear of a Dragon fighter - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_180": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sphere of Power",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_191": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Sphere of Power - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_159": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_154": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_104": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_105": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_138": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Morana's Nimbus",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_181": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_192": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_133": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Selena's Halo",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_207": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_214": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_121": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sword of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_115": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Talisman",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_243": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_254": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_178": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Thieves Guild Sign",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_172": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Throwing Knives",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_119": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Traitor's Crown",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_143": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Traitor's shield - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_189": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Trickster's Cane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_200": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trickster's Cane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_127": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trine",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_208": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Unity of Extremes",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_215": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Unity of Extremes - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_161": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_156": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_144": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Voodoo doll - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_124": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_166": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_147": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wiseman's Crown - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_131": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "World Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "_threshold": 8000
+  },
+  "10": {
+    "gear_235": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_246": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ace in the Hole - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_97": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Advisor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_226": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aigrette of Nocturnal Cicadas",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_167": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alchemist's Set",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_186": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_197": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "All-Seeing Eye - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_116": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "All-seer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_179": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_190": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Alucard's Amulet - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_227": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Andvari's Fortitude Support",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_134": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_158": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_153": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Angel's Mace, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_125": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Apostle's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_188": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Aquant's Trident",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_199": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Aquant's Trident - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_139": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Archangel's Mace",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_151": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Armor of Thieves' Prince - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_184": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_195": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Asklepius' Staff - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_233": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_244": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Awakened Might - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_142": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Axe - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_120": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade Bow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_182": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_193": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blade of the Immortals - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_183": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_194": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Blued Plate Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_140": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_129": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_130": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Book of Fate, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_157": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_152": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Fate, level 3 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_135": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Prophecies",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_126": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Book of Tales",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_240": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_251": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Brazier of the Bloody Lotus - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_223": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Chalice of the Primordials",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_175": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Citadel Guardian",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_136": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Cosmic Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_242": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_253": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator of Worlds - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_187": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_198": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Creator's Feathering - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_229": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Deadly Sting",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_241": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Demigod's Wreath",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_252": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Demigod's Wreath - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_96": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Desert Blade",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_228": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Devourer of Mages",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_132": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_128": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Diviner's Orb, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_99": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_162": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Shield - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_101": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_107": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon Tooth",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_224": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dragon's Heart",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_164": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Dragon's Tooth - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_239": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_250": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Drommer's Fancy - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_202": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_205": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Dwarven Hardbane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_232": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Echidna's Dark Hex",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_117": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Elephant Guard",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_174": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enchanted Chain",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_171": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Enigma's Chronicles",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_236": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_247": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Enslaved Demon - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_225": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evening Curfew",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_211": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_218": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Evil Genius Cuirass - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_122": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Executioner's Sword",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_91": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Flaming Heart",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_150": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Folding Crossbow - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_98": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Funeral Totem",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_92": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Giant-Slayer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_114": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Governor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_113": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Grandmaster's Chain",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_173": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Gro Bulgor's Poleaxe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_95": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_111": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hand of Glory",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_146": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Hand of Midas - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_170": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Harunian Helm",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_177": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Hellion Harpoon",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_238": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_249": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Helm of Clear Thoughts - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_237": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_248": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Insatiable Wing Aegis - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_230": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Jarugardi's Sneer",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_212": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Key to All Doors",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_219": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Key to All Doors - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_169": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "La Mort's Card",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "consumable_65": {
+      "buy": true,
+      "hidden": false,
+      "fav": true
+    },
+    "gear_209": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_216": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Light of Distant Stars - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_103": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lightbringer",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_123": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lion Helmet",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_149": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Lion's armor - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_168": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Lycanthrope's Fang",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_94": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Minotaur's Head",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_210": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_217": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oppressor's Crown - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_203": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_206": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Oracle's Censer - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_141": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange1",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_150": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange10",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_151": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange11",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_152": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange12",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_142": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange2",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_143": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange3",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_144": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange4",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_145": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange5",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_146": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange6",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_147": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange7",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_148": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange8",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_149": {
+      "buy": false,
+      "hidden": true,
+      "fav": false,
+      "_name": "Orange9",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_165": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Original Word - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_137": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Panoptic Orb",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_93": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_112": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Pastor's Seal",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_234": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_245": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Piercing Gaze - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_221": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primarch's Grasp",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_102": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_109": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Primordial Word",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_90": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Prince of Thieves' Armor",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_185": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_196": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Radiant Armor - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_176": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Riversar's Tiara",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_201": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_204": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Ruler's Globus - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_141": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Screaming blade - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_160": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_155": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Seer's sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_231": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Shadow Queen's Scythes",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_108": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Shield of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_118": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Siege Crossbow",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_222": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Simon's Enlightenment",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_100": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_110": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_163": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Siren's Song - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_106": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Snaketongue",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_213": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of the Valkyries",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_220": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Song of Valkyries - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_145": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Soul catcher - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "scroll_148": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Spear of a Dragon fighter - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_180": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sphere of Power",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_191": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Sphere of Power - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_159": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_154": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial sphere, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_104": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 1",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_105": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Celestial Spheres, level 2",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_138": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Morana's Nimbus",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_181": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_192": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Neutralization - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_133": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Selena's Halo",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_207": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_214": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Staff of Stubbornness - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_121": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Sword of Thorns",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_115": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Talisman",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_243": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "scroll_254": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "The Vanquished Absolute - Recipe",
+      "_color": 6,
+      "_color_hex": "#FF3333"
+    },
+    "gear_178": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Thieves Guild Sign",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_172": {
+      "buy": true,
+      "hidden": false,
+      "fav": true,
+      "_name": "Throwing Knives",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_119": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Traitor's Crown",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_143": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Traitor's shield - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_189": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Trickster's Cane",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_200": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trickster's Cane - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "gear_127": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Trine",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "gear_208": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Unity of Extremes",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_215": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "Unity of Extremes - Recipe",
+      "_color": 5,
+      "_color_hex": "#FFD700"
+    },
+    "scroll_161": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 1 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_156": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Universe shaker, level 2 - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_144": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Voodoo doll - Recipe",
+      "_color": 2,
+      "_color_hex": "#90EE90"
+    },
+    "gear_124": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_166": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wasp - Recipe",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "scroll_147": {
+      "buy": false,
+      "hidden": false,
+      "fav": false,
+      "_name": "Wiseman's Crown - Recipe",
+      "_color": 3,
+      "_color_hex": "#87CEEB"
+    },
+    "gear_131": {
+      "buy": false,
+      "hidden": false,
+      "fav": true,
+      "_name": "World Tremor",
+      "_color": 4,
+      "_color_hex": "#DDA0DD"
+    },
+    "_threshold": 28000
+  },
+  "17": {
+    "consumable_86": {
+      "buy": true,
+      "hidden": false,
+      "fav": false
+    },
+    "consumable_85": {
+      "buy": true,
+      "hidden": false,
+      "fav": false
+    },
+    "_threshold": 5000
   }
 }

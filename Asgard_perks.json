@@ -1,20 +1,20 @@
 {
   "format": "asb-config",
   "version": 1,
-  "exportedAt": "2026-10-13T01:46:05.397Z",
+  "exportedAt": "2026-10-13T01:53:57.236Z",
   "config": {
     "gold": {
-      "reserve": 7000000,
+      "reserve": 117000000,
       "rules": [
         {
           "buff": "Defense Sphere Destroyer",
           "minBalance": 20000000,
-          "maxBuy": 3
+          "maxBuy": 0
         },
         {
           "buff": "Wormhole Suppressor",
           "minBalance": 10000000,
-          "maxBuy": 5
+          "maxBuy": 0
         },
         {
           "buff": "Meteors of Haste",
@@ -29,7 +29,7 @@
         {
           "buff": "Defense Sphere Override",
           "minBalance": 10000000,
-          "maxBuy": 5
+          "maxBuy": 0
         }
       ]
     },
@@ -60,7 +60,10 @@
       "Ingenious Engineers",
       "Wakeful Undead",
       "Dreamer's Retaliation",
-      "Mages' Vigilance"
+      "Mages' Vigilance",
+      "Defense Sphere Destroyer",
+      "Defense Sphere Override",
+      "Wormhole Suppressor"
     ],
     "ioUrl": "https://github.com/HeroWarsTools/profiles/raw/refs/heads/main/Asgard_perks.json"
   }

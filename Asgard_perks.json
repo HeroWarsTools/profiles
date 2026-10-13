@@ -1,1 +1,67 @@
-
+{
+  "format": "asb-config",
+  "version": 1,
+  "exportedAt": "2026-10-13T01:46:05.397Z",
+  "config": {
+    "gold": {
+      "reserve": 7000000,
+      "rules": [
+        {
+          "buff": "Defense Sphere Destroyer",
+          "minBalance": 20000000,
+          "maxBuy": 3
+        },
+        {
+          "buff": "Wormhole Suppressor",
+          "minBalance": 10000000,
+          "maxBuy": 5
+        },
+        {
+          "buff": "Meteors of Haste",
+          "minBalance": 10000000,
+          "maxBuy": 5
+        },
+        {
+          "buff": "Jumpstart",
+          "minBalance": 10000000,
+          "maxBuy": 5
+        },
+        {
+          "buff": "Defense Sphere Override",
+          "minBalance": 10000000,
+          "maxBuy": 5
+        }
+      ]
+    },
+    "coins": {
+      "order": [
+        "Chosen by the Stars",
+        "Stellar Tank Resilience",
+        "Nightmare's Energy",
+        "Marksman Opportunity",
+        "Keeper's Blessing",
+        "Sphere Energy Unleashed",
+        "Immortal Hero",
+        "Insomnia",
+        "Astral Shield",
+        "Mages' Vigilance",
+        "Dreamer's Retaliation",
+        "Wakeful Undead",
+        "Ingenious Engineers",
+        "Survivor's Willpower",
+        "Resilient Grove Keepers",
+        "Healing Converter"
+      ]
+    },
+    "blocked": [
+      "Healing Converter",
+      "Resilient Grove Keepers",
+      "Survivor's Willpower",
+      "Ingenious Engineers",
+      "Wakeful Undead",
+      "Dreamer's Retaliation",
+      "Mages' Vigilance"
+    ],
+    "ioUrl": "https://github.com/HeroWarsTools/profiles/raw/refs/heads/main/Asgard_perks.json"
+  }
+}
